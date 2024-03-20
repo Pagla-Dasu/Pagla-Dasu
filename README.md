@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehasish Dey</h1>
 <h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Google Clone](https://boards-pagladasu.vercel.app/)
+- 🔭 I’m currently working on [Boards - A story boarding app](https://boards-pagladasu.vercel.app/)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
