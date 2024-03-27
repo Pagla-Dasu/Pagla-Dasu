@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Snehasish Dey</h1>
 <h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
 
+[![](https://visitcount.itsvg.in/api?id=Pagla-Dasu&icon=0&color=1)](https://visitcount.itsvg.in)
+
 - 🔭 I’m currently working on [Boards - A story boarding app](https://boards-pagladasu.vercel.app/)
 
 - 🌱 I’m currently learning **Full Stack Development**
@@ -39,5 +41,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='http://http://dev-memer.info/' width="512px"/>
-
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
