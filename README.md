@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Snehasish Dey</h1>
 <h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Pagla-Dasu&icon=0&color=1)](https://visitcount.itsvg.in)
+<div style="text-align:center">
+    [![](https://visitcount.itsvg.in/api?id=Pagla-Dasu&icon=0&color=1)](https://visitcount.itsvg.in)
+</div>
 
 - 🔭 I’m currently working on [Boards - A story boarding app](https://boards-pagladasu.vercel.app/)
 
